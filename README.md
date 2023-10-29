@@ -20,7 +20,7 @@ To get a local copy up and running follow these simple steps.
 3. Create an `.env` file at the root of the project:
    ```bash
    PORT=8000
-   JWT_SECRET='supersecret
+   JWT_SECRET='supersecret'
    ```
 
 ## Development
@@ -33,7 +33,7 @@ bun dev
 
 Open http://localhost:8000/ with your browser to see the result.
 
-You can view the swagger documentation at http://localhost:8000/.
+You can view the swagger documentation at http://localhost:8000/swagger.
 
 ## Credits
 
